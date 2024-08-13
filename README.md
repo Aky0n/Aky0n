@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrew, an Aspiring <a href="https://www.linkedin.com/in/ash95-29b142215/">IT & CyberSecurity Professional</a>☺</h1>
+<h1>Hi, I'm Andrew, an Aspiring <a href="https://www.linkedin.com/in/ash95-29b142215/">IT & CyberSecurity Professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
